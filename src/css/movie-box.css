@@ -1,0 +1,60 @@
+body {
+}
+#box {
+  border: 1px solid lightgrey;
+  width: 350px;
+  margin-left: 50px;
+  padding: 20px;
+  background-color: #e5e5e5;
+}
+
+ul li {
+  width: 50%;
+  list-style-type: none;
+  line-height: 3;
+  color: blue;
+  margin-left: 0;
+
+}
+.movie-title {
+  float: left;
+  text-align: left;
+}
+
+.movie-showtime{
+  float: right;
+  text-align: right;
+}
+a{
+  text-decoration: none;
+  color: blue;
+}
+
+#title-name {
+  font-size: 20px;
+}
+
+
+
+#line {
+  color: blue;
+}
+
+#break{
+  height: 2px;
+  color: grey;
+}
+
+
+#display {
+  width: 100%;
+  height: 60px;
+  background-color: blue;
+  color: white;
+  font-size: 20px;
+}
+
+
+#movie {
+  color: blue;
+}
